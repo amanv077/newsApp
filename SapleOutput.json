@@ -1,0 +1,46 @@
+{
+  "status": "ok",
+  "totalResults": 4,
+  "articles": [
+    {
+      "source": { "id": "news24", "name": "News24" },
+      "author": "sport",
+      "title": "All Blacks' grit inspires New Zealand against South Africa at World Cup",
+      "description": "New Zealand captain Tom Latham hopes to summon the fighting spirit of the All Blacks when his side face fellow Cricket World Cup semi-final contenders South Africa in Pune.",
+      "url": "https://www.news24.com/sport/cricket/worldcup/all-blacks-grit-inspires-new-zealand-against-south-africa-at-world-cup-20231031",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/9603/2c8948d70bd149b7a76ae52171561b43.jpg",
+      "publishedAt": "2023-10-31T19:49:38",
+      "content": "New Zealand captain Tom Latham hopes to summon the fighting spirit of the All Blacks when his side face fellow Cricket World Cup semi-final contenders South Africa in Pune.\r\nWednesday's match comes j… [+362 chars]"
+    },
+    {
+      "source": { "id": "news24", "name": "News24" },
+      "author": "Lynn Butler",
+      "title": "Walter has no qualms with Proteas' aggressive batting style: 'We're not robots'",
+      "description": "Proteas coach Rob Walter admits he won't let his batting line-up change their aggressive style in the ongoing Cricket World Cup in India.",
+      "url": "https://www.news24.com/sport/cricket/worldcup/walter-has-no-qualms-with-proteas-aggressive-batting-style-were-not-robots-20231031",
+      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/9253/5950dd75b54142799ea290e50b5b670c.jpg",
+      "publishedAt": "2023-10-31T18:04:33",
+      "content": "Despite the Proteas finding themselves second on the Cricket World Cup standings, there's been a notable crack in their ODI set-up - the chase.\r\nWhile South Africa's batting line-up has been praised … [+148 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
+      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
+      "publishedAt": "2020-04-27T11:41:47Z",
+      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+    },
+    {
+      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "author": null,
+      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
+      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
+      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
+      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
+      "publishedAt": "2020-03-30T15:26:05Z",
+      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+    }
+  ]
+}
